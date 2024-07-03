@@ -11,7 +11,7 @@
 <p align="left">
 🎓 INGENIERO ELECTRÓNICO Y DESARROLLADOR FRONT-END Y BACK-END 
 
-💻 Dos años de experiencia en el proceso de desarrollo de software (2024)
+💻 Dos años de experiencia y contando, en el proceso de desarrollo de software (2024)
 
 📝 roles en el ámbito: desarrollador... Junior... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
