@@ -36,10 +36,10 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=100% src="https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131144.jpg"   alt="VIDEO" />
+        <img align="center" width=100% src="https://github.com/Juliandos/TiendaVirtual-picoypala/blob/main/Imagenes/2024-07-07_145341.jpg"   alt="VIDEO" />
       </p>
     <p align="center">
-      <a href="https://github.com/Juliandos/pokemon-html-css-js" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Juliandos/TiendaVirtual-picoypala" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
@@ -53,13 +53,11 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131144.jpg"   alt="VIDEO" />
       </p>
     <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+      <a href="https://github.com/Juliandos/pokemon-html-css-js" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p> 
 </td>
 
    <td width="25%" align="center">
