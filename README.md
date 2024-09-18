@@ -9,7 +9,7 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-🎓 INGENIERO ELECTRÓNICO Y DESARROLLADOR FRONT-END Y BACK-END 
+🎓 DESARROLLADOR FRONT-END Y BACK-END E INGENIERO ELECTRÓNICO BILINGÜE   
 
 💻 Dos años de experiencia y contando, en el proceso de desarrollo de software (2024)
 
